@@ -1,0 +1,51 @@
+<!DOCTYPE html>: Informa ao navegador que o documento é HTML5.
+
+<html>: A tag raiz de todo o documento HTML.
+
+<head>: Contém informações sobre a página, como título, metadados e links para arquivos externos (ex: CSS).
+
+<body>: Contém o conteúdo visível da página (texto, imagens, links, etc.).
+
+<h1> a <h6>: Definem os cabeçalhos de 1 (mais importante) a 6 (menos importante)
+
+<p>: Define um parágrafo.
+
+<br>: Quebra de linha, usada para inserir uma nova linha dentro do texto.
+
+<ul>: Lista não ordenada (com marcadores).
+
+<ol>: Lista ordenada (numerada).
+
+<li>: Define um item de lista.
+
+<a>: Define um link (âncora), com o atributo href para especificar o destino.
+
+<img>: Define uma imagem. Atributo src é usado para indicar o caminho da imagem e alt descreve a imagem para acessibilidade.
+
+<form>: Define um formulário.
+
+<input>: Define um campo de entrada.
+
+<textarea>: Define uma área de texto.
+
+<button>: Define um botão.
+
+<table>: Define uma tabela.
+
+<tr>: Define uma linha de tabela.
+
+<th>: Define um cabeçalho de tabela (negrito e centralizado por padrão).
+
+<td>: Define uma célula de tabela.
+
+<div>: Define uma seção ou bloco de conteúdo. Geralmente usado para agrupar elementos.
+
+<span>: Define uma parte de texto em linha, sem criar uma quebra de linha
+
+<article>: Define um conteúdo independente, como um artigo de blog.
+
+<section>: Define uma seção do conteúdo.
+
+<footer>: Define o rodapé de um documento ou seção.
+
+<header>: Define o cabeçalho de um documento ou seção.
